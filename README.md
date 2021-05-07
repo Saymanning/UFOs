@@ -9,7 +9,7 @@ The purpose of this analysis was to update the client's UFO Sightings webpage to
 - First, a table was built using data stored in a JavaScript array.
 - Next, filters were created to make the table fully dynamic, so that it will react to user input.
 - Finally, the table was placed into an HTML file for easy viewing.
-- 
+
 ### Results:
 Visitors to the UFO Sightings webpage are now able to perform searches using the fields provided to filter for information on UFO sightings by multiple criteria or single criteria ass seen in the example images below.
 
